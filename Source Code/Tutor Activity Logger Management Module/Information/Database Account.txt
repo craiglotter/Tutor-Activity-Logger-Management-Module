@@ -1,0 +1,4 @@
+Database Name: CommerceIT_Tutor_Activity_Logs
+User Account: helpdesk 
+User Password: helpdesktutor
+
